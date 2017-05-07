@@ -1460,7 +1460,7 @@ public class Digester extends DefaultHandler2 {
     }
 
 
-    /**
+    /**\
      * Parse the content of the specified input stream using this Digester.
      * Returns the root element from the object stack (if any).
      *
