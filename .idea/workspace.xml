@@ -174,6 +174,88 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat8.0-source-research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springmvc-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat8.0-source-research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat8.0-source-research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat8.0-source-research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina-home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat-study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tomcat8.0-source-research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalina-home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -204,6 +286,11 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/javax/servlet/Servlet.java&#10;Servlet&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/javax/servlet/Servlet.java&#10;Servl&#9;PSI&#9;JAVA://javax.servlet.Servlet&#10;StandardContextValve&#9;PSI&#9;JAVA://org.apache.catalina.core.StandardContextValve&#10;StandardPipe&#9;PSI&#9;JAVA://org.apache.catalina.core.StandardPipeline&#10;Server.x,&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/conf/server.xml&#10;Stan&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardContext.java&#10;ApplicationContextFa&#9;PSI&#9;JAVA://org.apache.catalina.core.ApplicationContextFacade&#10;StandardCon&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardContext.java&#10;StandardHo&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardHost.java&#10;Stand&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardService.java&#10;server.xml&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/conf/server.xml&#10;Standard&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardService.java&#10;LifecycleBase&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/util/LifecycleBase.java&#10;Life&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/LifecycleListener.java&#10;LifecycleEvent&#9;PSI&#9;JAVA://org.apache.catalina.LifecycleEvent&#10;Cata&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Catalina.java&#10;Server&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardServer.java&#10;StandardServer&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardServer.java&#10;Ca&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Catalina.java&#10;StandardSession&#9;PSI&#9;JAVA://org.apache.catalina.session.StandardSession&#10;Catalina&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Catalina.java&#10;Boots&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Bootstrap.java&#10;ClusterRuleSet&#9;PSI&#9;JAVA://org.apache.catalina.ha.ClusterRuleSet&#10;Server.xml&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/conf/server.xml&#10;StandardServi&#9;PSI&#9;JAVA://org.apache.catalina.core.StandardService&#10;StandardService&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/core/StandardService.java&#10;NamingResourcesImpl&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/deploy/NamingResourcesImpl.java&#10;Se&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/webapps/docs/config/server.xml&#10;B&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Bootstrap.java&#10;Boot&#9;PSI&#9;JAVA://org.apache.catalina.startup.Bootstrap&#10;BootS&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/java/org/apache/catalina/startup/Bootstrap.java&#10;MANIFEST.&#9;FILE&#9;file:///Users/fdx/Studyspace/JavaSpace/tomcat8.0-source-research/tomcat-code/modules/jdbc-pool/resources/MANIFEST.MF" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/catalina-home/webapps" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Bootstrap">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -691,12 +778,12 @@
       <workItem from="1428891212490" duration="75000" />
       <workItem from="1429258706740" duration="1198000" />
       <workItem from="1493010476879" duration="54398000" />
-      <workItem from="1494170657368" duration="2671000" />
+      <workItem from="1494170657368" duration="2997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108108000" />
+    <option name="totallyTimeSpent" value="108434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
